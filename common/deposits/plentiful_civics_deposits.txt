@@ -16,7 +16,7 @@ d_plentiful_civics_food_1 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -30,7 +30,7 @@ d_plentiful_civics_food_2 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -44,7 +44,7 @@ d_plentiful_civics_food_3 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -58,7 +58,7 @@ d_plentiful_civics_food_4 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -72,7 +72,7 @@ d_plentiful_civics_food_5 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -86,7 +86,7 @@ d_plentiful_civics_food_6 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 	
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -100,7 +100,7 @@ d_plentiful_civics_food_7 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 	
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -114,7 +114,7 @@ d_plentiful_civics_food_8 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 	
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -128,7 +128,7 @@ d_plentiful_civics_food_9 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 	
 	potential = { always = no }
 	drop_weight = { weight = 0 }
@@ -142,7 +142,7 @@ d_plentiful_civics_food_10 = {
 		}
 	}
 	station = shipclass_mining_station
-	is_for_colonizeable = no
+	is_for_colonizable = no
 	
 	potential = { always = no }
 	drop_weight = { weight = 0 }
